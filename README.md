@@ -7,6 +7,14 @@ To view my profile 👇.
 <a href="https://stackoverflow.com/users/1459343/miqureshi" rel="nofollow"><img src="https://camo.githubusercontent.com/fc787598aecf719d83caaa44451ed49617912947ceaefe36b51071cca88b63b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stack Overflow" data-canonical-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
+
+<h2>Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,jquery,bootstrap,wordpress,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,blender,ae)](https://skillicons.dev)
+
 <!--
 **miqureshi/miqureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
